@@ -9,16 +9,16 @@ This profile is where I share projects, experiments, and things I’m currently 
 ---
 
 ### Tools & Tech
-- **Frontend**
-- 
+**Frontend**
+
 React / Next.js • TailwindCSS • TypeScript
 
-- **Backend**
-- 
+**Backend**
+
 Node.js • Supabase • MongoDB • REST APIs & integrations
 
-- **Other**
-- 
+**Other**
+
 Payment integrations (Stripe, etc.) • Cloud deployment (Vercel, etc.) • System design & architecture
 
 ---
