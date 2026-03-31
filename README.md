@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hey, I’m Tarri
 
-<!--
-**builtbytarri/builtbytarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer focused on building **scalable systems, SaaS products, and real-world digital solutions**.
 
-Here are some ideas to get you started:
+I don’t just build apps — I build systems that people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 What I’m currently working on
+
+- 🧾 **Invoisky** — AI-powered invoice generation system  
+- 🚚 Logistics & commerce platforms (real-world deployment focused)  
+- 🏗️ Internal tools and scalable backend systems  
+- ⚡ Exploring automation, AI integrations, and performance optimization  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Frontend**
+- React / Next.js
+- TailwindCSS
+- TypeScript
+
+**Backend**
+- Node.js
+- Supabase
+- MongoDB
+- REST APIs & integrations
+
+**Other**
+- Payment integrations (Stripe, etc.)
+- Cloud deployment (Vercel, etc.)
+- System design & architecture
+
+---
+
+## 🧠 What I care about
+
+- Building **production-ready systems**, not just demos  
+- Clean, scalable architecture  
+- Speed + usability + real-world application  
+- Turning ideas into **working products**
+
+---
+
+## 📫 Reach me
+
+- 💼 LinkedIn: https://linkedin.com/in/theophilustarri  
+- 🌐 Portfolio: (add when ready)  
+- 📧 Email: (your email)
+
+---
+
+## ⚡ A bit more
+
+Currently building at the intersection of:
+> SaaS • Logistics • Commerce • Automation
+
+---
+
+> “Built by Tarri”
